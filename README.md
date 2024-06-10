@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on open source project/fronted project
 - 📫 you can reach me : amargiri1717@gmail.com
 - 😄 pronouns :he/him
+- [![Amarkr1717's GitHub | Stats](https://stats.quine.sh/Amarkr1717/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Amarkr1717)
     
 
 <!---
