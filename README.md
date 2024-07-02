@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amarkr1717
 - 👀 I’m interested in web development / software development
-- 🌱 I’m currently learning javaScript & DSA in c++
+- 🌱 I’m currently learning React library & DSA in c++
 - 💞️ I’m looking to collaborate on open source project/fronted project
 - 📫 you can reach me : amargiri1717@gmail.com
 - 😄 pronouns :he/him
